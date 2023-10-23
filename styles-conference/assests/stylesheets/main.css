@@ -140,7 +140,7 @@ table {
 */
 body {
   color: #888;
-  font: 300 16px/22px "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /* 
@@ -287,6 +287,7 @@ p a {
 }
 .hero p {
   font-size: 24px;
+  font-weight: 100;
 }
 .teaser a:hover h3 {
   color: #a9b2b9;
@@ -303,6 +304,9 @@ p a {
   padding: 40px 0 22px 0;
   line-height: 44px;
   font-size: 48px;
+  font-weight: 100;
+  letter-spacing: .5px;
+  text-transform: uppercase;
 }
 .tagline {
   margin: 66px 0 22px 0;
